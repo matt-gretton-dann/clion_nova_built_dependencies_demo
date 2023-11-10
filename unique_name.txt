@@ -1,0 +1,6 @@
+#ifndef UNIQUE_NAME_Hq
+#define UNIQUE_NAME_H
+
+unsigned unique_fib(unsigned x);
+
+#endif

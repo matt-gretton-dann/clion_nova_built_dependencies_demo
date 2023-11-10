@@ -1,0 +1,6 @@
+#ifndef STANDARD_H
+#define STANDARD_H
+
+unsigned standards_fib(unsigned x);
+
+#endif
